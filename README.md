@@ -1,3 +1,3 @@
-# Angular 4.
+# ES6.
 
-## Projeto com Angular 4.
+## Principais comandos do ES6 - ECMAScript 6.

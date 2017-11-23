@@ -1,3 +1,3 @@
-# ES6 - ECMAScript 6.
+# Typescript.
 
-## Principais comandos do ES6 - ECMAScript 6.
+## Principais instruções com typescript.
